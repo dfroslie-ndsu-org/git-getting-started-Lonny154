@@ -1,0 +1,2 @@
+### New things i learned
+I have used github very briefly in the past. There was a bootcamp I joined that used Generative AI to create a website that would help people learn a new language. I learned the very basics of github. I am still pretty inexperienced with it
